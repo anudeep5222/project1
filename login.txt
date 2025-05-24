@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Main beanch content
+=======
+resolved conflict Login feature implemetation
+>>>>>>> feature-login
